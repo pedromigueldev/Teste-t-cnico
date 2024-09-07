@@ -21,7 +21,7 @@ fun main() {
         print("${current}, ")
 
         isNumberInFibonacci = current == reqNumber
-        if (current > reqNumber) break
+        if (current >= reqNumber) break
     }
 
     if (isNumberInFibonacci)(

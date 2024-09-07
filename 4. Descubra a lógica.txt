@@ -1,0 +1,28 @@
+4) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___ 9
+b) 2, 4, 8, 16, 32, 64, ____ 128
+c) 0, 1, 4, 9, 16, 25, 36, ____ 49
+d) 4, 16, 36, 64, ____ 100
+e) 1, 1, 2, 3, 5, 8, ____ 13
+f) 2,10, 12, 16, 17, 18, 19, ____ 200
+
+a) Todo numero X é igual o numero anterior mais 2.
+b) Todo numero X é igual o dobro do numero anterior.
+c) Todo numero X é igual o modulo da distacia dos ultimos 2 numeros mais 2 mais o ultimo numero antes de X.
+    resposta 3:
+    |25 - 36| = 11
+    11 + 2 -> 13
+    13 + 36 -> 49
+d) Todo numero X é igual ao modulo da distancia dos ultimos dois numeros mais 8 somado ao nummero antes de X.
+    |4-16| = 12
+    12 + 8 = 20
+    20 + 16 = 36
+    resposta 4:
+    |36-64| = 28
+    28 + 8 = 36
+    36 + 64 = 100
+e) Todo numero X é igual a soma dos ultimos dois numeros antes dele. Sequecia Fibonacci.
+    reposta 5:
+    5 + 8 = 13
+f) Todo X deve comecar com a letra D.
+    dois, dez, doze, dezesseis, dezessete, dezoito, dezenove, duzentos.
