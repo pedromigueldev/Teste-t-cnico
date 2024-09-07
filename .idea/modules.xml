@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Fibonacci/1. Fibonacci.iml" filepath="$PROJECT_DIR$/1. Fibonacci/1. Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Verificar String/2. Verificar String.iml" filepath="$PROJECT_DIR$/2. Verificar String/2. Verificar String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Verificar SOMA/3. Verificar SOMA.iml" filepath="$PROJECT_DIR$/3. Verificar SOMA/3. Verificar SOMA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Teste técnico.iml" filepath="$PROJECT_DIR$/.idea/Teste técnico.iml" />
     </modules>
   </component>
