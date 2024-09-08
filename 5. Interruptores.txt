@@ -1,0 +1,6 @@
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
+
+Interruptor 1, 2, 3
+
+Ligar interruptor 1 por um tempo, desligar e ligar 2 indo até a sala das lâmpadas.
+A lâmpada quente é o interruptor 1, a ligada é o interruptor 2 e o que sobrou é o ultimo interruptor.
